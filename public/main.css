@@ -1,0 +1,60 @@
+html,body{
+    margin: 0px;
+    background-color: rgb(11, 11, 56);
+    color: rgb(231, 231, 231);
+}
+#code_inp{
+    position: relative;
+    width: 90vw;
+    height: 45vh;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: darkslateblue;
+    color: floralwhite;
+    font-size: 1rem;
+}
+.output{
+    margin: 0%;
+    padding: 0%;
+}
+.outholder{
+    position: relative;
+    width: 88vw;
+    height: 40vh;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: darkslateblue;
+    color: floralwhite;
+    font-size: 1rem;
+}
+.button{
+    position: relative;
+    display: block;
+    padding: 0.5%;
+    background-color: rgb(93, 216, 63);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 10%;
+    margin-top: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    left: 4.2%;
+}
+.button:hover{
+    background-color: rgb(65, 165, 40);
+}
+.headcode{
+    position: relative;
+    margin-left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.code{
+    padding-top: 1%;
+}
+ul{
+    display: block;
+    padding: 0%;
+}
+li{
+    list-style: none;
+}
